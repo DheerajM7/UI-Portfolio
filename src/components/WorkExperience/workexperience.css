@@ -1,0 +1,72 @@
+#workExperience {
+    margin: 0 auto;
+    min-height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 60rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 1rem;
+}
+
+.workExperienceTitle {
+    margin: 1rem;
+    font-size: 3rem;
+}
+
+.workExperienceDesc {
+    font-weight: 300;
+    font-size: 1rem;
+    max-width: 51rem;
+    text-align: center;
+}
+
+.experiences {
+    max-width: 51rem;
+    margin: 1.5rem;
+    background: rgb(50, 50, 50);
+    border-radius: 0.5rem;
+    width: 100%;
+}
+
+.experience {
+    margin: 1rem;
+    background: rgb(80, 80, 80);
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+}
+
+.experienceTitle {
+    text-align: center;
+    font-size: 2.5rem;
+    color: rgb(80, 80, 90);
+    letter-spacing: 0.2rem;
+}
+
+.experience > h2 {
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+}
+
+.experience > h3 {
+    text-align: center;
+    font-weight: 300;
+    margin-bottom: 0.5rem;
+    color: #e0e0e0;
+}
+
+.experience > h4 {
+    text-align: center;
+    font-weight: 300;
+    font-style: italic;
+    margin-bottom: 1rem;
+    color: #c0c0c0;
+}
+
+.experience > p {
+    font-size: 0.9rem;
+    font-weight: 200;
+    line-height: 1.5;
+}
