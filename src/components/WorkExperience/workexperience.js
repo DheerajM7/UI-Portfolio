@@ -39,7 +39,7 @@ export const WorkExperience = () => {
             <div className="experience">
                 <h2>CTS PVT. LTD - INDIA</h2>
                 <h3>IT Developer II (UX Consultant)</h3>
-                <h4>APRIL 2020 – AUG 2022</h4>
+                <h4>APRIL 2021 – AUG 2022</h4>
                 <p>
                     Developed a user-focused enterprise-grade ERP system for the manufacturing industry,
                     streamlining production planning, inventory management, and vendor coordination. Collaborated with cross-
@@ -51,7 +51,7 @@ export const WorkExperience = () => {
             <div className="experience">
                 <h2>MASTERCARD - INDIA</h2>
                 <h3>UI/UX Frontend Engineer</h3>
-                <h4>JAN 2018 – MAR 2020</h4>
+                <h4>JAN 2020 – MAR 2021</h4>
                 <p>
                     Contributed to the development of Smart Data, Mastercard's web-based expense
                     management system, delivering intuitive and visually appealing user interfaces to help businesses monitor
@@ -63,7 +63,7 @@ export const WorkExperience = () => {
             <div className="experience">
                 <h2>TECHWAVE INFOTECH PVT. LTD - INDIA</h2>
                 <h3>Frontend Developer</h3>
-                <h4>JUNE 2016 – DEC 2017</h4>
+                <h4>JUNE 2019 – DEC 2019</h4>
                 <p>
                     Redesigned and enhanced a customer engagement platform for a leading e-commerce client,
                     focusing on optimizing user experience, improving conversion rates, and ensuring operational efficiency. The
