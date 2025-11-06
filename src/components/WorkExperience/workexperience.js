@@ -27,7 +27,7 @@ export const WorkExperience = () => {
             <div className="experience">
                 <h2>HEALTH CATALYST INC - USA</h2>
                 <h3>UX Designer</h3>
-                <h4>JAN 2023 - NOV 2023</h4>
+                <h4>DEC 2022 - NOV 2023</h4>
                 <p>
                     Designed and developed user-centric interfaces for a federal healthcare data management
                     system, supporting secure and scalable integration of patient records, insurance claims, and compliance
@@ -57,18 +57,6 @@ export const WorkExperience = () => {
                     management system, delivering intuitive and visually appealing user interfaces to help businesses monitor
                     and manage costs effectively. Focused on creating user-centric designs that enhance engagement and
                     satisfaction while maintaining seamless integration with Salesforce Lightning and backend services.
-                </p>
-            </div>
-            
-            <div className="experience">
-                <h2>TECHWAVE INFOTECH PVT. LTD - INDIA</h2>
-                <h3>Frontend Developer</h3>
-                <h4>JUNE 2016 – DEC 2017</h4>
-                <p>
-                    Redesigned and enhanced a customer engagement platform for a leading e-commerce client,
-                    focusing on optimizing user experience, improving conversion rates, and ensuring operational efficiency. The
-                    platform introduced features like personalized recommendations, loyalty rewards, and seamless payment
-                    integrations, delivering a superior and engaging customer journey.
                 </p>
             </div>
         </div>
